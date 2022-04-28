@@ -1,0 +1,26 @@
+{
+    "id": "105BBF17",
+    "path": "~/ITI/SOC_R/Soc Data Project/socDataProj.R",
+    "project_path": "socDataProj.R",
+    "type": "r_source",
+    "hash": "2213915060",
+    "contents": "",
+    "dirty": false,
+    "created": 1649824271325.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "23,23",
+        "scrollLine": "12"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1649825194,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1649825194576,
+    "read_only": false,
+    "read_only_alternatives": []
+}

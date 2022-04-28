@@ -1,0 +1,26 @@
+{
+    "id": "FCAE60F4",
+    "path": "~/ITI/SOC_R/Soc Data Project/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "3522407672",
+    "contents": "",
+    "dirty": false,
+    "created": 1649820914764.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "20,34",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1649825022,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1649825022917,
+    "read_only": false,
+    "read_only_alternatives": []
+}
