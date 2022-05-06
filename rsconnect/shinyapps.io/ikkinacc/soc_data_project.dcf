@@ -1,0 +1,13 @@
+name: soc_data_project
+title:
+username:
+account: ikkinacc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6213839
+bundleId: 5861549
+url: https://ikkinacc.shinyapps.io/soc_data_project/
+when: 1651516270.84449
+lastSyncTime: 1651516270.84449
+asMultiple: FALSE
+asStatic: FALSE
